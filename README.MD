@@ -26,6 +26,9 @@ You must clarify the PATH where you saved the folder containing the algorithm, o
 
 # Dependencies 
 You should know that this tool, in order to operate correctly, needs some libraries installed previously.
+
 --> Pandas version 2.8.0 and upwards
+
 --> PyHMMER from  https://pyhmmer.readthedocs.io/en/stable/
+
 --> tkinter (is the default Python interface to the Tk GUI toolkit)
