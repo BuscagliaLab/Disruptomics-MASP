@@ -23,7 +23,9 @@ Example: >XX_2517_1_1_1 [224 - 382]
 Make sure you download the ZIP folder containing dependent files and the algorithm inside. Unzip the file, and NOT DELETE anything that is inside of the folder.
 
 Then you run:
+
 python Disruptomics-MASP.py 
+
 You must clarify the PATH where you saved the folder containing the algorithm, or directly run it inside the same folder. 
 
 # ✔️Dependencies 
