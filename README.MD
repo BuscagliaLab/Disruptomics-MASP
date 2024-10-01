@@ -1,12 +1,13 @@
 
 # Annotation and classification of Mucin Associated Surface Proteins (MASP) in Trypanozoma cruzi 
 
-#📍What is Disruptomics? 
+# 📍What is Disruptomics? 
 
 We herein developed a bioinformatic protocol for the accurate identification, characterization, quantitation and annotation of MASP molecules.
 
 # 📝NOTE
 From GENOME
+
 To start you must run your genome sequence in getorf EMBOSS: (we recommend these parameters)
 
 getorf -minsize 120 -maxsize 20100 -find 1
@@ -14,6 +15,7 @@ getorf -minsize 120 -maxsize 20100 -find 1
 The output obtained in EMBOSS will be the input of the algorithm. 
 
 From PROTEOME
+
  ⚠️In case you want to run a protein fasta file,  you must ensure that the header of the sequences have the same format as EMBOSS.⚠️
 Example: >XX_2517_1_1_1 [224 - 382]
 
