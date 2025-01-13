@@ -20,11 +20,13 @@ From PROTEOME
 Example: >XX_2517_1_1_1 [224 - 382]
 
 # 💻How to run Disruptomics?
+To execute the algorithm, download the MASP-algorithm.zip file and save it in your Downloads folder. Unzip the file in your desired location, creating a folder named MASP-Algorithm that contains the Python script and two HMM matrices. Open a terminal and navigate to this folder, either manually or by right-clicking the folder and selecting “Open in Terminal” for convenience.
+
 Make sure you download the ZIP folder containing dependent files and the algorithm inside. Unzip the file, and NOT DELETE anything that is inside of the folder.
 
 Then you run:
 
-python Disruptomics-MASP.py 
+python3 MASP-AnnotationAlgorithm.py 
 
 You must clarify the PATH where you saved the folder containing the algorithm, or directly run it inside the same folder. 
 
