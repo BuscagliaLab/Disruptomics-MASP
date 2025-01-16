@@ -38,3 +38,5 @@ You should know that this tool, in order to operate correctly, needs some librar
 --> PyHMMER from  https://pyhmmer.readthedocs.io/en/stable/
 
 --> tkinter (is the default Python interface to the Tk GUI toolkit)
+
+--> In some cases, depending on the computer, installation of Jinja2 may be required. https://jinja.palletsprojects.com/en/stable/
