@@ -26,6 +26,7 @@ Depending on the user's preferences and the computer being used, the algorithm c
 
 -***Without a graphical interface***, allowing the algorithm to run entirely through the terminal, enabling streamlined execution and interaction directly via command-line inputs.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 To execute the algorithm, download the MASP-Algorithm.zip file and save it in your Downloads folder. Unzip the file in your desired location, creating a folder named MASP-Algorithm that contains the Python script and two HMM matrices. Open a terminal and navigate to this folder, either manually or by right-clicking the folder and selecting “Open in Terminal” for convenience.
 
 **NOTE!!: In case your computer does not have graphical environment enabled, you can run the algorithm from the terminal using the zip file: MASP-AlgorithmTerminal.zip**
