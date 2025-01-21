@@ -32,9 +32,11 @@ To execute the algorithm, first download the ZIP file named MASP-Algorithm.zip (
 A new folder named MASP-Algorithm (or MASP-AlgorithmTerminal) will be created, containing the Python script and the necessary HMM matrices (Fig. 1A). Open a new terminal and navigate to this folder. You can do this manually in the terminal, or for convenience, right-click on the folder and select “Open in Terminal” to automatically set the terminal to the correct directory (Fig. 1B). 
 **Note!!**: Make sure you download the ZIP folder containing dependent files and the algorithm inside. Unzip the file, and NOT DELETE anything that is inside of the folder.
 
+**Once you are in the correct directory, proceed with the desired execution mode as described below.**
+
+
 ![FoldersandZIP](images/folderszip.jpg)
 
-Once you are in the correct directory, proceed with the desired execution mode as described below.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -***With a graphical interface***  
 
