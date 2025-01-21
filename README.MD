@@ -21,8 +21,10 @@ Example: >XX_2517_1_1_1 [224 - 382]
 
 # 💻How to run Disruptomics?
 Depending on the user's preferences and the computer being used, the algorithm can be executed in two modes:
--__With a graphical interface__, which provides interactive pop-up windows for file selection, making the process more user-friendly.
--__Without a graphical interface__, allowing the algorithm to run entirely through the terminal, enabling streamlined execution and interaction directly via command-line inputs.
+
+-***With a graphical interface***, which provides interactive pop-up windows for file selection, making the process more user-friendly.
+
+-***Without a graphical interface***, allowing the algorithm to run entirely through the terminal, enabling streamlined execution and interaction directly via command-line inputs.
 
 To execute the algorithm, download the MASP-Algorithm.zip file and save it in your Downloads folder. Unzip the file in your desired location, creating a folder named MASP-Algorithm that contains the Python script and two HMM matrices. Open a terminal and navigate to this folder, either manually or by right-clicking the folder and selecting “Open in Terminal” for convenience.
 
