@@ -1,5 +1,5 @@
 
-# Annotation and classification of Mucin Associated Surface Proteins (MASP) in Trypanosoma cruzi 
+# Annotation and classification of Mucin Associated Surface Proteins (MASP) in _Trypanosoma cruzi_
 
 # 📍What is Disruptomics? 
 
